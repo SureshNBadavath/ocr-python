@@ -1,0 +1,26 @@
+               Payment Remittance Advice
+Ju 18.2014
+Fron Paver   Vision Onerations        Supplier or Party GB Canita
+       475 Park Avenue        To Paves    GF Canita
+      New Yor                 1500 Nortt Burtingame St Sute 250
+       sn                   BOSTON
+      S                   MMA
+       10025                  US 20993
+                    Bank Name
+                    Bank Number
+                    Branch Number
+                    Rank RIC Code
+                    Bank Account   002
+                    IBAN
+The followng payment has been remitted
+Pavment Reference Numbe 575
+Paper Document Number 123003
+Payment Date     I 18 2014
+Payment Currency    uSD
+Payment Amount    401.00
+Remittance Datai
+Document Reterence Document Document   Document Amount Withheld Discount Amount Paid
+Number      Date   Currency     Amount         Taken
+ki17ul1402     ut 17 2014 USD      1.000 00      00    00    100 7
+k17u11409     a 17.2014 usn      3.000 o0      00    00    300.75
+                      Total      or    00    401.00
